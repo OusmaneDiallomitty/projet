@@ -1,0 +1,10 @@
+body{
+    background-color: dodgerblue;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    background-color: brown;
+    color: rgb(138, 236, 237);
+    text-align: center;
+}
